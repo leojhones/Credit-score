@@ -1,4 +1,4 @@
-Projeto 01 - Concessão de cartões de crédito
+# - Concessão de cartões de crédito
 Índice
 Etapa 1 CRISP - DM: Entendimento do negócio
 Etapa 2 & 3 Crisp-DM: Entendimento e preparação dos dados
